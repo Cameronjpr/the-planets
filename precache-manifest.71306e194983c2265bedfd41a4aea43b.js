@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3999c7630f132c514edbc02c9bf4651",
+    "revision": "5f8fa6299528743ea782dd7d93ce4a4b",
     "url": "/the-planets/index.html"
   },
   {
-    "revision": "7f65a1658bb5402c87f3",
+    "revision": "7dab388a6aea53c39703",
     "url": "/the-planets/static/css/main.ff069ae9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-planets/static/js/2.90a684c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f65a1658bb5402c87f3",
-    "url": "/the-planets/static/js/main.72eb6469.chunk.js"
+    "revision": "7dab388a6aea53c39703",
+    "url": "/the-planets/static/js/main.4c0032de.chunk.js"
   },
   {
     "revision": "29b76837b00ada29ee2e",
