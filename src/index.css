@@ -22,7 +22,9 @@ code {
 
 main {
   font-family: monospace;
-  height: 100vh;
+  min-height: 100vh;
+  /* mobile viewport bug fix */
+  min-height: -webkit-fill-available;
   display: grid;
   grid-template-rows: 3fr 1fr;
   gap: 1em;

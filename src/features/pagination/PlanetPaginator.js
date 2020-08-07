@@ -26,7 +26,6 @@ export default function PlanetPaginator(props) {
               onClick={() => handleClick(planet.id)}>
               <PlanetOrbSmall alt={`The planet ${planet.name}`} src={process.env.PUBLIC_URL + `/img/${planet.name}.png`}/>
             </button>
-            <h3>{planet.name.slice(0,2)}</h3>
           </PaginationItem> 
         )
         )}
