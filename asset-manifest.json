@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/the-planets/static/css/main.43014c1c.chunk.css",
-    "main.js": "/the-planets/static/js/main.78f01062.chunk.js",
-    "main.js.map": "/the-planets/static/js/main.78f01062.chunk.js.map",
+    "main.js": "/the-planets/static/js/main.0f854825.chunk.js",
+    "main.js.map": "/the-planets/static/js/main.0f854825.chunk.js.map",
     "runtime-main.js": "/the-planets/static/js/runtime-main.69e75f3b.js",
     "runtime-main.js.map": "/the-planets/static/js/runtime-main.69e75f3b.js.map",
-    "static/js/2.e8e52ba8.chunk.js": "/the-planets/static/js/2.e8e52ba8.chunk.js",
-    "static/js/2.e8e52ba8.chunk.js.map": "/the-planets/static/js/2.e8e52ba8.chunk.js.map",
+    "static/js/2.b5bbd606.chunk.js": "/the-planets/static/js/2.b5bbd606.chunk.js",
+    "static/js/2.b5bbd606.chunk.js.map": "/the-planets/static/js/2.b5bbd606.chunk.js.map",
     "index.html": "/the-planets/index.html",
-    "precache-manifest.196655a373d5e67bb0cf8719a6cc6346.js": "/the-planets/precache-manifest.196655a373d5e67bb0cf8719a6cc6346.js",
+    "precache-manifest.95f9eefc930f003a29b4e089c63a950b.js": "/the-planets/precache-manifest.95f9eefc930f003a29b4e089c63a950b.js",
     "service-worker.js": "/the-planets/service-worker.js",
     "static/css/main.43014c1c.chunk.css.map": "/the-planets/static/css/main.43014c1c.chunk.css.map",
-    "static/js/2.e8e52ba8.chunk.js.LICENSE.txt": "/the-planets/static/js/2.e8e52ba8.chunk.js.LICENSE.txt"
+    "static/js/2.b5bbd606.chunk.js.LICENSE.txt": "/the-planets/static/js/2.b5bbd606.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.69e75f3b.js",
-    "static/js/2.e8e52ba8.chunk.js",
+    "static/js/2.b5bbd606.chunk.js",
     "static/css/main.43014c1c.chunk.css",
-    "static/js/main.78f01062.chunk.js"
+    "static/js/main.0f854825.chunk.js"
   ]
 }
