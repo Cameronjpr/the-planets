@@ -1,5 +1,7 @@
 import React, { useRef, useEffect } from 'react';
 import {StyledCard, PlanetOrb} from './PlanetCard.styled'
+import smoothscroll from 'smoothscroll-polyfill';
+
 
 export default function PlanetCard(props) {
   const { name, color, description, days, dist, focused } = props
@@ -8,6 +10,8 @@ export default function PlanetCard(props) {
   useEffect(() => {
     if (myRef.current && focused) {
       console.log(focused, myRef.current)
+      // kick off the polyfill!
+      smoothscroll.polyfill();
       myRef.current.scrollIntoView({
         behavior: 'smooth',
         block: 'center',
